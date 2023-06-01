@@ -1,0 +1,16 @@
+{
+  "name": "presentation",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@fontsource/inter": "^5.0.2",
+    "@fontsource/iosevka": "^5.0.2",
+    "@iconify-json/simple-icons": "^1.1.55",
+    "@slidev/cli": "^0.42.1",
+    "@slidev/theme-apple-basic": "^0.20.0"
+  }
+}
